@@ -231,7 +231,7 @@
   }
 
   .right-sidebar {
-    @apply hidden md:block px-6 py-10 min-w-[465px] bg-dark-2
+    @apply hidden md:block px-6 py-10 w-[30vw] bg-dark-2
   }
 
   /* Post Card */
