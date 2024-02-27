@@ -14,7 +14,7 @@ const TopCreators = () => {
             ) : (
               <ul className="grid grid-cols-2 gap-3 pt-5">
                 {creators?.documents.map((creator: Models.Document) => (
-                  <li key={creator?.$id} className="flex-1 min-w-[200px] w-full  ">
+                  <li key={creator?.$id} className="flex-1 min-w-[10vw] w-full">
                     <UserCard user={creator} />
                   </li>
                 ))}
