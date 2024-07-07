@@ -1,4 +1,4 @@
-<h3 align="center">A Social Media Application</h3>
+<h1 align="center">A Social Media Application</h1>
 
 ## <a name="introduction">🤖 Introduction</a>
 
